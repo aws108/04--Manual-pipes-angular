@@ -1,5 +1,7 @@
 # PipesApp
 
+Chuleta ideal para aprender pipes, ya sean los propios de Angular, como aprender a crear uno propio.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
