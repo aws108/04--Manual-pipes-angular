@@ -1,0 +1,11 @@
+html, body{
+    margin: 10px;
+    background-color: var(--surface-b);
+    font-family: var(--font-family); /*De esta manera le dices que busque una variable que
+    se encuentra en :root { -> node_modules/primeng/resources/themes/vela-blue/theme.css */
+    
+}
+
+.text-layout{
+    color: var(--text-color);
+}
