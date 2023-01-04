@@ -1,6 +1,11 @@
 # PipesApp
 
-Chuleta ideal para aprender pipes, ya sean los propios de Angular, como aprender a crear uno propio.
+Chuleta ideal para aprender pipes, ya sean los propios de Angular, como aprender a crear uno propio. 
+Este proyecto usa Prime NG -> https://www.primefaces.org/primeng/table/sort
+
+Para la instalación: https://www.primefaces.org/primeng/setup
+npm install primeng --save [--force]
+npm install primeicons --save [--force]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
