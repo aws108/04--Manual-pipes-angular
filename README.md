@@ -10,6 +10,8 @@ npm install primeng --save [--force]
 
 npm install primeicons --save [--force]
 
+· Web del proyecto: https://pipes-types-angular-app.netlify.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
